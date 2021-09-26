@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: b650b2db8e95c784b95af4de2008797c
+guid: 758984d3e48ee614886145619b1a75f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1597626602985468515
-    second: Enemy_Recover_0
+      213: -8399911928942970026
+    second: E1D_0
   - first:
-      213: -4624731095800242669
-    second: Enemy_Recover_1
+      213: -7270066087793284981
+    second: E1D_1
+  - first:
+      213: -6652428197827862383
+    second: E1D_2
+  - first:
+      213: 5333433636869124711
+    second: E1D_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -97,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemy_Recover_0
+      name: E1D_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 73
-        width: 46
-        height: 50
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +117,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 362b9aa4ee8eb2610800000000000000
-      internalID: 1597626602985468515
+      spriteID: 65bb9c2fa948d6b80800000000000000
+      internalID: -8399911928942970026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy_Recover_1
+      name: E1D_1
       rect:
         serializedVersion: 2
-        x: 9
-        y: 13
-        width: 46
-        height: 46
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +138,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31e9f1d3297a1dfb0800000000000000
-      internalID: -4624731095800242669
+      spriteID: b88a77f59698b1b90800000000000000
+      internalID: -7270066087793284981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1D_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ada6dcc3dda3a0800000000000000
+      internalID: -6652428197827862383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1D_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76234be82a9240a40800000000000000
+      internalID: 5333433636869124711
       vertices: []
       indices: 
       edges: []

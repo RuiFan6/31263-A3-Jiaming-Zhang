@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: b650b2db8e95c784b95af4de2008797c
+guid: 6d14c30c95eaab3418ba4308645984e0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1597626602985468515
-    second: Enemy_Recover_0
+      213: 3146474206017469301
+    second: E2U_0
   - first:
-      213: -4624731095800242669
-    second: Enemy_Recover_1
+      213: 9119566471489295690
+    second: E2U_1
+  - first:
+      213: -3494267133811655019
+    second: E2U_2
+  - first:
+      213: 8039753441498404387
+    second: E2U_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -97,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemy_Recover_0
+      name: E2U_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 73
-        width: 46
-        height: 50
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +117,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 362b9aa4ee8eb2610800000000000000
-      internalID: 1597626602985468515
+      spriteID: 57bb990ae958aab20800000000000000
+      internalID: 3146474206017469301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy_Recover_1
+      name: E2U_1
       rect:
         serializedVersion: 2
-        x: 9
-        y: 13
-        width: 46
-        height: 46
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +138,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31e9f1d3297a1dfb0800000000000000
-      internalID: -4624731095800242669
+      spriteID: a459ea663653f8e70800000000000000
+      internalID: 9119566471489295690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2U_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e75d22e8ed18fc0800000000000000
+      internalID: -3494267133811655019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E2U_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3269c3a9821f29f60800000000000000
+      internalID: 8039753441498404387
       vertices: []
       indices: 
       edges: []

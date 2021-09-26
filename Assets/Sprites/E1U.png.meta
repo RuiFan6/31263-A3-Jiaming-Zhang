@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: b650b2db8e95c784b95af4de2008797c
+guid: 4ee07112b41b35c4c9ef76fd3f8d59b7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1597626602985468515
-    second: Enemy_Recover_0
+      213: -8459190421646026695
+    second: E1U_0
   - first:
-      213: -4624731095800242669
-    second: Enemy_Recover_1
+      213: 7355496163724642174
+    second: E1U_1
+  - first:
+      213: 8958016514184462012
+    second: E1U_2
+  - first:
+      213: 1788444853513694700
+    second: E1U_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -97,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemy_Recover_0
+      name: E1U_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 73
-        width: 46
-        height: 50
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +117,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 362b9aa4ee8eb2610800000000000000
-      internalID: 1597626602985468515
+      spriteID: 938d666512bea9a80800000000000000
+      internalID: -8459190421646026695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy_Recover_1
+      name: E1U_1
       rect:
         serializedVersion: 2
-        x: 9
-        y: 13
-        width: 46
-        height: 46
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +138,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31e9f1d3297a1dfb0800000000000000
-      internalID: -4624731095800242669
+      spriteID: e774e813ac8f31660800000000000000
+      internalID: 7355496163724642174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1U_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe3c0cde84415c70800000000000000
+      internalID: 8958016514184462012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1U_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced2f026e15d1d810800000000000000
+      internalID: 1788444853513694700
       vertices: []
       indices: 
       edges: []

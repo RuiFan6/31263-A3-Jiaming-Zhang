@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: 9cb2a0c2104cd814aac981f644e0a75b
+guid: 98314c7cc69b96c40a84b0ffa8e732d1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6300968418963380397
-    second: Enemy4_Normal_0
+      213: -1227793227862637755
+    second: E4U_0
   - first:
-      213: 5347916312897574434
-    second: Enemy4_Normal_1
+      213: 5502496563515334790
+    second: E4U_1
   - first:
-      213: -4258252094417964748
-    second: Enemy4_Normal_2
+      213: 2260705183144718153
+    second: E4U_2
+  - first:
+      213: 3697188879828029072
+    second: E4U_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -55,7 +58,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Enemy4_Normal_0
+      name: E4U_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 73
-        width: 46
-        height: 50
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,20 +117,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da85441a469817750800000000000000
-      internalID: 6300968418963380397
+      spriteID: 5430e9b709006fee0800000000000000
+      internalID: -1227793227862637755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy4_Normal_1
+      name: E4U_1
       rect:
         serializedVersion: 2
-        x: 73
-        y: 73
-        width: 46
-        height: 50
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -135,20 +138,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 226d6c65d8d973a40800000000000000
-      internalID: 5347916312897574434
+      spriteID: 680a326987bcc5c40800000000000000
+      internalID: 5502496563515334790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Enemy4_Normal_2
+      name: E4U_2
       rect:
         serializedVersion: 2
-        x: 9
-        y: 13
-        width: 46
-        height: 46
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,8 +159,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43177240846a7e4c0800000000000000
-      internalID: -4258252094417964748
+      spriteID: 94fa937e263af5f10800000000000000
+      internalID: 2260705183144718153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E4U_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e8ca992bd0f4330800000000000000
+      internalID: 3697188879828029072
       vertices: []
       indices: 
       edges: []
